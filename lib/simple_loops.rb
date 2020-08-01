@@ -18,7 +18,7 @@ end
 
 
 def output_array(quote)
-  count = 5 
+  count = 0 
   while count < output_array.length do 
     puts output_array
     
