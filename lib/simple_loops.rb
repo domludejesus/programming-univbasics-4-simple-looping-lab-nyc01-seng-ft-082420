@@ -17,7 +17,13 @@ def loop_message_n_times(message, n)
 end 
 
 
-def output_array
+def output_array(quote)
+  count = 0 
+  while count < output_array.length do 
+    puts output_array
+    
+  count += 1 
+end 
   
 end 
 
